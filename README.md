@@ -19,7 +19,7 @@ This Maven Java project includes entity classes for books, authors, categories, 
 
 1. To clone the project repository, run the following command in the terminal:
 ```bash
-   git clone https://github.com/ikaraozdemir/
+   git clone https://github.com/ikaraozdemir/library_management_system.git
    ```
 2. Navigate to the project folder in the terminal and run the following command:
    
